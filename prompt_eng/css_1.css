@@ -1,0 +1,22 @@
+.bg-red {
+    background-color: red;
+}
+
+.card-img-top:hover {
+    transform: scale(1.05);
+    transition: transform .5s ease;
+}
+
+.card-title {
+    color: white;
+}
+
+.navbar-brand, .footer-logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.nav {
+    align-items: left;
+}

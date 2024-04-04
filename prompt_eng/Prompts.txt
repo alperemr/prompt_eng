@@ -1,0 +1,29 @@
+Prompts:
+
+#1
+
+"I want you to act as a front-end web developer.
+You will code a new website for the project using the following tools:
+Bootstrap framework using CDN for HTML, CSS.
+The website should be mobile-friendly and responsive.
+Additionally, in terms of layout and style, the site structure should also include the latest version of Twitter Bootstrap CSS classes.
+It is important to provide HTML, CSS codes as separate outputs.
+Also, you should add a navigation menu containing internal links to the headings in the page content.
+Do not comment on the code you write.
+I want a website that briefly showcases examples of food recipes. The website should include only 4 food recipes and every food recipes should be listed on the homepage.
+The tags I want to include on my website are (header, main, nav, section, article, aside, footer).
+I want a logo in the header section of the page, and similarly, I want one logo in the footer section.
+I want the content of the page to be in a gallery view, with 300x400 sized images, with 2 images per grid, and I don't want the content of the images to be cropped.
+It would be nice if the images had a hover transition effect.
+Can you help me create this website?
+Add a red background to the titles of the food recipes and change the text style color to white.
+Also, resize the logo to 100x100 and move it to top left corner.
+Additionally, can you align the navigation section to the left?"
+
+#2
+
+Create a logo for a website that shows 4 food recipes and gives a brief description of them. the logo should be compatible with a red color. The logo should be a simple spaghetti inside a bowl.
+
+#3
+
+Give 4 food recipe examples. Create 4 food images with the size of 300x400. Give names and brief recipe descriptions about them.
